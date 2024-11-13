@@ -18,3 +18,6 @@ This project focuses on predicting monthly solar power generation using seasonal
 1. Ensure all required R packages (`tidyverse`, `lubridate`, `ggplot2`) are installed:
    ```r
    install.packages(c("tidyverse", "lubridate", "ggplot2"))
+
+2. Follow assiignment2.pdf instructions and complementary project2.R code
+   
